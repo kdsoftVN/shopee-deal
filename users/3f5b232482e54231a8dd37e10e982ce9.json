@@ -15,7 +15,7 @@
       "new_version":"1.7.8",
       "inactive_version":["1.7.7"],
       "download_url":"https://example.com"
-   }
+   },
    "account":{
       "status": true, 
       "U": ["47", "45", "44", "45", "43", "39", "45", "40", "45", "43"], 
