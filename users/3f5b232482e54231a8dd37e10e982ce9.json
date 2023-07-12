@@ -3,6 +3,10 @@
    "message":null,
    "limit_time":10,
    "limit_chunk":5,
+   "actived":{
+      "expired":"2678400",
+      "reset":false
+   }
    "is_pro":{
       "expired":1699414628,
       "history":[]
