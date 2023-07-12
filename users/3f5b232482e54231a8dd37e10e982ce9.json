@@ -4,7 +4,7 @@
    "limit_time":10,
    "limit_chunk":5,
    "actived":{
-      "expired":"604800",
+      "expired":"60",
       "reset":false
    },
    "is_pro":{
