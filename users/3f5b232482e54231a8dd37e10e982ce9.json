@@ -5,7 +5,7 @@
    "limit_chunk":5,
    "actived":{
       "expired":"604800",
-      "reset":true
+      "reset":false
    },
    "is_pro":{
       "expired":1699414628,
