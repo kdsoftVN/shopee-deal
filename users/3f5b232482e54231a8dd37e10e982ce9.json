@@ -4,11 +4,11 @@
    "limit_time":10,
    "limit_chunk":5,
    "actived":{
-      "expired":"2678400",
+      "expired":"6678400",
       "reset":false
    },
    "is_pro":{
-      "expired":1699414628,
+      "expired":1703504753,
       "history":[]
    },
    "is_update":{
