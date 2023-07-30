@@ -18,7 +18,7 @@
    },
    "account":{
       "status": true,
-      "is_hash": false,
+      "is_no_hash": true,
       "list_no_hash":[
          {
             "username":"0528762099",
